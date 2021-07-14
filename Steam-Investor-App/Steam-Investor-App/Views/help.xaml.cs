@@ -32,7 +32,7 @@ namespace Steam_Investor_App.Views
 
         private void Github_click(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/Shynex1234/Steam-Investor");
+            System.Diagnostics.Process.Start("https://github.com/Shynex/Steam-Investor");
         }
 
         private void Steam_Click(object sender, RoutedEventArgs e)
