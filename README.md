@@ -15,7 +15,7 @@ Join the [Discord](https://discord.gg/x4kuTWW) if you have any questions or prob
 
 
 # For The programmers
-I know the code is messy, its my first project I have ever ended.
+I know it's messy.
 Feel free to improve it!
 
 ### Installing the application with visual studio:
